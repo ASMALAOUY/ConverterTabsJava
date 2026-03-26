@@ -1,0 +1,23 @@
+[versions]
+agp = "8.2.0"
+appcompat = "1.6.1"
+material = "1.12.0"
+constraintlayout = "2.1.4"
+viewpager2 = "1.0.0"
+activity = "1.8.0"
+junit = "4.13.2"
+extJunit = "1.1.5"
+espresso = "3.5.1"
+
+[libraries]
+appcompat = { group = "androidx.appcompat", name = "appcompat", version.ref = "appcompat" }
+material = { group = "com.google.android.material", name = "material", version.ref = "material" }
+constraintlayout = { group = "androidx.constraintlayout", name = "constraintlayout", version.ref = "constraintlayout" }
+viewpager2 = { group = "androidx.viewpager2", name = "viewpager2", version.ref = "viewpager2" }
+activity = { group = "androidx.activity", name = "activity", version.ref = "activity" }
+junit = { group = "junit", name = "junit", version.ref = "junit" }
+extJunit = { group = "androidx.test.ext", name = "junit", version.ref = "extJunit" }
+espresso = { group = "androidx.test.espresso", name = "espresso-core", version.ref = "espresso" }
+
+[plugins]
+android-application = { id = "com.android.application", version.ref = "agp" }
