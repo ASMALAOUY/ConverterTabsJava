@@ -6,11 +6,13 @@
 
 Une application Android de conversion d'unités avec interface à onglets, développée en Java. L'application permet de convertir les températures (Celsius ↔ Fahrenheit) et les distances (Kilomètres ↔ Miles) dans une interface moderne et intuitive.
 
-## 📱 Captures d'écran
+## 📱 Demo
 
-| Écran Température | Écran Distance |
-|-------------------|----------------|
-| ![Température](screenshots/temperature.png) | ![Distance](screenshots/distance.png) |
+
+
+
+https://github.com/user-attachments/assets/d66f136e-7924-4e86-98e3-6c8275446b7c
+
 
 ## ✨ Fonctionnalités
 
